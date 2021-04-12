@@ -9,3 +9,5 @@ A el le gusta mucho la programacion.
 El quiere tener un mejor empleo.
 
 Quiere ser un gran web developer.
+
+El curos de JS de JonMircha es buenisimo
