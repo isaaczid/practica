@@ -1,4 +1,4 @@
-Esta es la historia de Isaac Fierro.
+Esta es la historia y vida de Isaac Fierro.
 
 El esta aprendiendo Git y JavaScript.
 
