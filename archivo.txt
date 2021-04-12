@@ -4,4 +4,8 @@ El esta aprendiendo Git y JavaScript.
 
 El tiene 25 años.
 
-A el le gusta mucho la programacion
+A el le gusta mucho la programacion.
+
+El quiere tener un mejor empleo.
+
+Quiere ser un gran web developer.
