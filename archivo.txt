@@ -2,4 +2,4 @@ Esta es la historia de Isaac Fierro.
 
 El esta aprendiendo Git y JavaScript.
 
-El tiene 24 años.
+El tiene 25 años.
