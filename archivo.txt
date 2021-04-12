@@ -14,3 +14,7 @@ Quiere ser un gran web developer.
 ****AGREGAMOS TEXTO DESDE UNA NUEVA RAMA****
 
 Le gustaria aprender a tocar guitarra
+
+El curso de Git es muy bueno, aprendo mucho
+
+Debo hacer un CV para el empleo de programador
